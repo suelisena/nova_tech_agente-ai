@@ -26,7 +26,7 @@ A **NovaQuest** foi criada para resolver o desafio de fornecer respostas rápida
 
 
 
-https://github.com/suelisena/nova_tech_agente_ai/assets/video_technova_AI.mp4
+https://github.com/suelisena/nova_tech_agente-ai/tree/main/assets/video_technova_AI.mp4
 
 > **Nota:** No vídeo, é possível observar o agente consultando o banco de dados para informar preços e lendo documentos internos para explicar a política de trocas.
 
