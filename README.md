@@ -24,9 +24,8 @@ A **NovaQuest** foi criada para resolver o desafio de fornecer respostas rápida
 
 ## 📺 Demonstração
 
-*(Suba o seu vídeo para a pasta 'assets' ou raiz do projeto e atualize o link abaixo)*
 
-![Demonstração NovaQuest](Demonstracao_NovaQuest_Final.mp4)
+![Demonstração NovaQuest](Video TechNova AI.mp4)
 
 > **Nota:** No vídeo, é possível observar o agente consultando o banco de dados para informar preços e lendo documentos internos para explicar a política de trocas.
 
